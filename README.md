@@ -12,5 +12,5 @@ Step 2: Open your command promt and set app folder as working directory<br>
 Step 3: Install dependencies<br>
 `pip install -r requirements.txt`<br>
 Step 4: Run the application<br>
-'python app.py'<br>
+`python app.py`<br>
 Step 5: Copy the url from the terminal and open it in your favourite browser.<br>
