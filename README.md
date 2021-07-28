@@ -12,19 +12,17 @@ Libraries:
 - Malplotlib 
 - Seaborn 
 - Sklearn
-- Flask
-Deployment:
+- Flask<br>
 Web Development:
 - HTML
 - CSS
 - BootStrap 
-- Flask 
-<br>
+- Flask <br>
 Deployment: Heroku cloud
 
 # Installation☢
 Step 1: Download zip file and extract
-or<br>
+<br>or<br>
 clone this repository<br>
 `git clone https://github.com/ashok49473/stroke-prediction-app.git`<br>
 Step 2: Open your command promt and set app folder as working directory<br>
