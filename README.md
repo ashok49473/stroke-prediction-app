@@ -2,8 +2,9 @@
 **A web application to predict the chances of getting a stroke by a patient based on other health factors like hypertension, Smoking habit, etc.**
 - Live app :- https://stroke--prediction.herokuapp.com/home
 - The model was trained and validated on 5100+ patient health records. 
-- Achieved True Positive rate of 0.77 and F1 score of 0.24
+- Achieved True Positive rate of 0.77 and F1 score of 0.24<br>
 <img src="https://github.com/ashok49473/stroke-prediction-app/blob/main/static/images/img.png", width="70%">
+<br>
 # Tools and Technologies used🛠
 Python 3.7
 **Machine Learning: 
