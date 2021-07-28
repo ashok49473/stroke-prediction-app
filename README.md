@@ -8,21 +8,18 @@
 <br><br>
 
 # Tools and Technologies used🛠
-Windows 10 OS - Python 3.7<br>
-Machine Learning:<br>
+- Windows 10 OS 
+- Python 3.7
 - Pandas
 - Numpy
 - Malplotlib 
 - Seaborn 
 - Sklearn
 - Flask
-<br>
-Web Development:<br>
 - HTML
 - CSS
 - BootStrap 
-- Flask<br>
-Deployment:Heroku cloud
+- Deployed on Heroku cloud
 
 # Installation☢
 Step 1: Download zip file and extract
