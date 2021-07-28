@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8"/>
+	<meta name="viewport" content="width=device-width, initial-scale=1"/>
+	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css"/>
+	<link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+	<title>{% block title %}title{% endblock %}</title>	
+</head>
+
+<body>
+	<nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+	      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbar">
+	        <span class="navbar-toggler-icon"></span>
+	      </button>
+	      <div class="collapse navbar-collapse" id="navbar">
+	        <div class="navbar-nav">	
+	          <a class="nav-item nav-link" href='/home'><b>Home</b></a>
+	          <a class="nav-item nav-link" href="{{ url_for('about') }}"><b>About</b></a>
+	        </div>
+	</nav>
+	{% block head %}
+
+	{% endblock %}
+
+	<div class="container p-3">
+		{% block content %}
+
+		{% endblock %}
+	</div>
+		{% block result %}
+
+		{% endblock %}
+	
+</body>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.slim.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/tether/1.4.7/js/tether.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/js/bootstrap.min.js"></script>
+</html>

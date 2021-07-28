@@ -1,0 +1,47 @@
+{% extends "base.html" %}
+{% block title %}About{% endblock %}
+
+{% block head %}
+<div class="container" align="center" style="font-size: 20px">
+<b>A web app to predict whether a patient is likely to get stroke based on the input
+parameters like gender, age, various diseases, and smoking status.</b></div>
+{% endblock %}
+
+{% block content %}
+<div class="container p-1" align="center">
+	<!-- <img src="static/images/start.webp" width="60%"> -->
+	<div class="container p-2">
+		<p style="font-size: 20px; color: white">Stroke is sometimes termed as brain attack or a cardiovascular accident (CVA). 
+			It is much like a heart attack, only it occurs in the brain.<br>
+
+		It occurs when the supply of blood to the brain is reduced or blocked completely, 
+		which prevents brain tissue from getting oxygen and nutrients.<br>
+
+		According to the World Health Organization (WHO) stroke is the 2nd leading cause
+		 of death globally, responsible for approximately 11% of total deaths.
+		Early identification of stroke can help doctors to give necessary medication to 
+		the patient.<br><br><br><br>
+		<ul align='left'>
+		<li><b>The machine learning model (Logistic regression) was trained and validated on 5100+ patient health records. </b></li>
+		<li><b>Achieved True Positive rate of 0.77 and F1 score of 0.24</b></li>
+		</ul>
+</p>
+	</div>
+	<div class="container p-2">
+		<b>Jupyter Notebook: </b>
+		<a href="https://www.kaggle.com/ashokkumarpalivela/stroke-prediction-end-to-end-project" style="color: white" target="_blank">click here!</a>
+	</div>
+
+	<div class="container p-2">
+		<b>Github: </b>
+		<a href="https://github.com/ashok49473/stroke-prediction-app" style="color: white" target="_blank">click here!</a>
+		<p style="color: red; text-align: center; font-size: 20px">
+		Note : This application was made for educational or learning purpose only.!</p>
+	</div>
+	
+	<div class="container">
+		<footer>&copy;2021 Ashok kumar</footer>
+	</div>
+	
+</div>
+{% endblock%}
