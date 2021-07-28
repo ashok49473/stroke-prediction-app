@@ -3,7 +3,7 @@
 - Live app :- https://stroke--prediction.herokuapp.com/home
 - The model was trained and validated on 5100+ patient health records. 
 - Achieved True Positive rate of 0.77 and F1 score of 0.24<br>
-<img src="https://github.com/ashok49473/stroke-prediction-app/blob/main/static/images/img.png", width="70%">
+![home](https://github.com/ashok49473/stroke-prediction-app/blob/main/static/images/img.png)
 <br>
 # Tools and Technologies used🛠
 Python 3.7
