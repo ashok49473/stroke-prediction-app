@@ -8,8 +8,8 @@
 <br><br>
 
 # Tools and Technologies used🛠
-Python 3.7<br>
-**Machine Learning:**<br>
+Windows 10 OS - Python 3.7<br>
+Machine Learning:<br>
 - Pandas
 - Numpy
 - Malplotlib 
@@ -17,12 +17,12 @@ Python 3.7<br>
 - Sklearn
 - Flask
 <br>
-**Web Development:**<br>
+Web Development:<br>
 - HTML
 - CSS
 - BootStrap 
 - Flask<br>
-**Deployment:** Heroku cloud
+Deployment:Heroku cloud
 
 # Installation☢
 Step 1: Download zip file and extract
@@ -41,5 +41,5 @@ Step 4: Run the application<br>
 
 Step 5: Copy the url from the terminal and open it in your favourite browser.<br>
 `ex: 127.0.0.1:5000/`<br>
-------------------------------------------------------------------
+------------------------------------------------------------------<br>
 ## Thank you...!! ❤
