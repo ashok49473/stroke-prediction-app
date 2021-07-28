@@ -8,8 +8,8 @@
 <br><br>
 
 # Tools and Technologies used🛠
-Python 3.7
-**Machine Learning: **
+Python 3.7<br>
+**Machine Learning: **<br>
 - Pandas
 - Numpy
 - Malplotlib 
@@ -17,7 +17,7 @@ Python 3.7
 - Sklearn
 - Flask
 <br>
-**Web Development:**
+**Web Development:**<br>
 - HTML
 - CSS
 - BootStrap 
