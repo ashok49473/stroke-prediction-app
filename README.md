@@ -19,13 +19,14 @@ Web Development:
 - CSS
 - BootStrap 
 - Flask 
+<br>
 Deployment: Heroku cloud
 
 # Installation☢
 Step 1: Download zip file and extract
 or<br>
 clone this repository<br>
-`git clone `
+`git clone https://github.com/ashok49473/stroke-prediction-app.git`<br>
 Step 2: Open your command promt and set app folder as working directory<br>
 `cd stroke-prediction-app`<br>
 Step 3: Install dependencies<br>
@@ -33,3 +34,6 @@ Step 3: Install dependencies<br>
 Step 4: Run the application<br>
 `python app.py`<br>
 Step 5: Copy the url from the terminal and open it in your favourite browser.<br>
+# Demo👨🏻‍💻
+- Home Page
+
