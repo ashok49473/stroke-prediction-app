@@ -9,7 +9,7 @@
 
 # Tools and Technologies used🛠
 Python 3.7<br>
-**Machine Learning: **<br>
+**Machine Learning:**<br>
 - Pandas
 - Numpy
 - Malplotlib 
