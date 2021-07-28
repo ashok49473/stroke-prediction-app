@@ -9,7 +9,7 @@
 
 # Tools and Technologies used🛠
 Python 3.7
-**Machine Learning: 
+**Machine Learning: **
 - Pandas
 - Numpy
 - Malplotlib 
@@ -17,7 +17,7 @@ Python 3.7
 - Sklearn
 - Flask
 <br>
-**Web Development:
+**Web Development:**
 - HTML
 - CSS
 - BootStrap 
@@ -41,4 +41,5 @@ Step 4: Run the application<br>
 
 Step 5: Copy the url from the terminal and open it in your favourite browser.<br>
 `ex: 127.0.0.1:5000/`<br>
-## Thank you❤
+------------------------------------------------------------------
+## Thank you...!! ❤
